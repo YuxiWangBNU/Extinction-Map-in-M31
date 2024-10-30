@@ -6,17 +6,16 @@ To account for foreground extinction, an extinction map of the Milky Way toward 
 The results offer a valuable tool for extinction correction in future observations, such as those from the China Space Station Telescope, and provide insights for improving dust models based on the spatial distribution of dust in galaxies like M31.
 
 # Data access
-The extinction map in M31 can be accessed at: https://nadc.china-vo.org/res/file_upload/download?id=47823
+The extinction map in M31 can be accessed at: https://nadc.china-vo.org/res/file_upload/download?id=47823  
 The foreground extinction map toward M31 can be accessed at: https://nadc.china-vo.org/res/file_upload/download?id=47822
 
 # How to use the maps
 To use our maps, we have provided a python procedure 'Wang2024_map.py'. The procedure relies on the dustmaps package (https://github.com/gregreen/dustmaps).
 
-The following steps show how to install our procedure:
-
-Install the dustmaps package (pip install dustmaps).
-Download the procedure 'Wang2024_map.py' in this project.
-Download the extinction map and the foreground extinction map to the same directory.
+The following steps show how to install our procedure:  
+1. Install the dustmaps package (pip install dustmaps).  
+2. Download the procedure 'Wang2024_map.py' in this project and run it.  
+3. Download the extinction map and the foreground extinction map to the same directory.
 
 An example is given below to show how to obtain E(B-V) values from our dust maps:
 
