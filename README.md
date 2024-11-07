@@ -2,7 +2,7 @@
 An extinction distribution of the Andromeda Galaxy (M31) is constructed with member stars identified by Ren at al. (2021a) as tracers by fitting multiband photometric data from UKIRT/WFCAM, PS1, and Gaia DR3.
 The resulting extinction distribution covers approximately 10 deg$^2$ of M31 with a resolution of approximately 50 arcsec, providing the largest coverage to date based on stellar observations.
 The derived average extinction, $A_V = 0.96$ mag, agrees well with previous studies. 
-To account for foreground extinction, an extinction map of the Milky Way toward M31 with a resolution of $\sim$ 1.9 arcmin is also constructed, yielding an average extinction of $A_V \approx 0.19$ mag. 
+To account for foreground extinction, an extinction map of the Milky Way toward M31 with a resolution of $\sim$ 1.7 arcmin is also constructed, yielding an average extinction of $A_V \approx 0.19$ mag. 
 The results offer a valuable tool for extinction correction in future observations, such as those from the China Space Station Telescope, and provide insights for improving dust models based on the spatial distribution of dust in galaxies like M31.
 
 # Data access
